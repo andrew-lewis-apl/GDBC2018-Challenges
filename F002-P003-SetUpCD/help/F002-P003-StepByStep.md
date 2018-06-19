@@ -7,6 +7,8 @@ In your project there is a Team Administrator available. This account can be use
 ### Create service principal
 1. Verify if your machine is Azure PowerShell ready by running the following command
 
+Get-Module -Name AzureRM -ListAvailable
+
 2. You are good if you see similar output
 
 ![image.png](.attachments/image-c3c82b1f-38d5-4071-9930-2f0b4f0744c8.png)
